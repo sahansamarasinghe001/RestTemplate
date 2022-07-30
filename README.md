@@ -3,6 +3,8 @@ This repo will demonstrate how to use a rest template in spring
 
 PUNK API is used as an external source of data :>  https://punkapi.com/documentation/v2
 
+make sure you clone and configure the project accordingly. Simply clicking the below endpoints won't work.
+
 endpoints :
 
 http://127.0.0.1:8080/restTemplate/getAllBeers -> this endpoint will return all the data using a rest template
